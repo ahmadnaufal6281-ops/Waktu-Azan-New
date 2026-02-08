@@ -1,0 +1,7 @@
+{
+  "name": "NurTime - Jadwal Sholat & Adhan",
+  "description": "Aplikasi pengingat waktu sholat modern dengan jadwal akurat dan suara adhan otomatis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
